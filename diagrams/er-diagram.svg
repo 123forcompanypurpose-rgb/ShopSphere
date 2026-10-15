@@ -1,0 +1,381 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="1280" viewBox="0 0 1900 1280" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphNDYwM2MwMS0xNjFiLTQ4MDUtOGFkOS02NGJiNzg2NjIxNzUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaL/wDTSI0j2NjOqHKJ56DFAAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyNzA5NzE3Ni0yNWI5LTQ5MGMtODhmNi00Njc4ZDMzN2U3ZjFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNou9fs+stxoit/aRz/LOFSkgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggs3DYokc2Lpmwxqc6Gk0cTikfY+L77JOyOIcNnN74hsykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaDib6MpDErP/5XZYIcwfHXAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBV6fy9jz1FMOBLzK61aXiRmAtQIJ/5u1oq3rVxCQFzv2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiaZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmE0NjAzYzAxLTE2MWItNDgwNS04YWQ5LTY0YmI3ODY2MjE3NS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjRmZjgxNDIwLTgzYzAtNDc0MS04ZjU5LTljMWI2MmU5Mjc3YXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCzcNiiRzYumbDGpzoaTRxOKR9j4vvsk7I4hw2c3viGzKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggO4rha31qJu7kQMz5wPZKhFyiHxGvwp6uGaJ2JMmq2K+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg8E5qLu9EzzPgmJoHaxjyLx1/Lw6kAPh5hzANzrx5bBh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQC7tmuvKJUrKArt3/SORIJN2QcyfhWvxkoOQZQUTonfC/DnL/w7ByhiJVzjCytqZpw90+BJmYN56jNEbXZP5CWY=</c2pa:manifest></metadata>
+<rect width="1900" height="1280" fill="#FFFFFF"/>
+<text x="60" y="46" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="23" fill="#1F2733" text-anchor="start" font-weight="bold" font-style="normal">ShopSphere — Entity Relationship Diagram</text>
+<text x="60" y="72" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="12" fill="#7A8699" text-anchor="start" font-weight="normal" font-style="normal">Eight private schemas, one per business service. No foreign key crosses a schema boundary (DR-02).</text>
+<rect x="80" y="100" width="390" height="464" rx="10" fill="#F6F8FB" stroke="#C9D4E3" stroke-width="1.1" />
+<text x="94" y="117" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.5" fill="#7A8699" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="1.1">SHOPSPHERE_USER  ·  REGISTRATION SERVICE</text>
+<rect x="94" y="140" width="362" height="168" rx="6" fill="#FFFFFF" stroke="#C9D4E3" stroke-width="1.1" />
+<path d="M 94 150 q 0 -10 10 -10 L 446 140 q 10 0 10 10 L 456 168 L 94 168 Z" fill="#2F5D8C" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="106" y="159" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="12.5" fill="#FFFFFF" text-anchor="start" font-weight="bold" font-style="normal">users</text>
+<text x="104" y="182" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#2F5D8C" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">PK</text>
+<text x="136" y="182" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="bold" font-style="normal">id</text>
+<text x="446" y="182" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<rect x="95" y="188" width="360" height="20" rx="0" fill="#FAFBFD" />
+<text x="136" y="202" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">first_name</text>
+<text x="446" y="202" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(60)</text>
+<text x="136" y="222" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">last_name</text>
+<text x="446" y="222" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(60)</text>
+<rect x="95" y="228" width="360" height="20" rx="0" fill="#FAFBFD" />
+<text x="136" y="242" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">email</text>
+<text x="446" y="242" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(120) UNIQUE</text>
+<text x="136" y="262" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">phone</text>
+<text x="446" y="262" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(20)</text>
+<rect x="95" y="268" width="360" height="20" rx="0" fill="#FAFBFD" />
+<text x="136" y="282" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">created_at</text>
+<text x="446" y="282" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">TIMESTAMP</text>
+<text x="136" y="302" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">updated_at</text>
+<text x="446" y="302" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">TIMESTAMP</text>
+<rect x="94" y="342" width="362" height="208" rx="6" fill="#FFFFFF" stroke="#C9D4E3" stroke-width="1.1" />
+<path d="M 94 352 q 0 -10 10 -10 L 446 342 q 10 0 10 10 L 456 370 L 94 370 Z" fill="#2F5D8C" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="106" y="361" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="12.5" fill="#FFFFFF" text-anchor="start" font-weight="bold" font-style="normal">addresses</text>
+<text x="104" y="384" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#2F5D8C" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">PK</text>
+<text x="136" y="384" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="bold" font-style="normal">id</text>
+<text x="446" y="384" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<rect x="95" y="390" width="360" height="20" rx="0" fill="#FAFBFD" />
+<text x="104" y="404" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#4A5568" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">FK</text>
+<text x="136" y="404" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">user_id</text>
+<text x="446" y="404" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<text x="136" y="424" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">line1</text>
+<text x="446" y="424" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(120)</text>
+<rect x="95" y="430" width="360" height="20" rx="0" fill="#FAFBFD" />
+<text x="136" y="444" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">line2</text>
+<text x="446" y="444" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(120)</text>
+<text x="136" y="464" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">city</text>
+<text x="446" y="464" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(60)</text>
+<rect x="95" y="470" width="360" height="20" rx="0" fill="#FAFBFD" />
+<text x="136" y="484" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">state</text>
+<text x="446" y="484" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(60)</text>
+<text x="136" y="504" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">postal_code</text>
+<text x="446" y="504" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(12)</text>
+<rect x="95" y="510" width="360" height="20" rx="0" fill="#FAFBFD" />
+<text x="136" y="524" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">country</text>
+<text x="446" y="524" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(60)</text>
+<text x="136" y="544" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">is_default</text>
+<text x="446" y="544" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BOOLEAN</text>
+<rect x="530" y="100" width="390" height="242" rx="10" fill="#F6F8FB" stroke="#C9D4E3" stroke-width="1.1" />
+<text x="544" y="117" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.5" fill="#7A8699" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="1.1">SHOPSPHERE_AUTH  ·  AUTH SERVICE</text>
+<rect x="544" y="140" width="362" height="188" rx="6" fill="#FFFFFF" stroke="#C9D4E3" stroke-width="1.1" />
+<path d="M 544 150 q 0 -10 10 -10 L 896 140 q 10 0 10 10 L 906 168 L 544 168 Z" fill="#6A4C93" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="556" y="159" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="12.5" fill="#FFFFFF" text-anchor="start" font-weight="bold" font-style="normal">credentials</text>
+<text x="554" y="182" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#6A4C93" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">PK</text>
+<text x="586" y="182" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="bold" font-style="normal">id</text>
+<text x="896" y="182" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<rect x="545" y="188" width="360" height="20" rx="0" fill="#FAFBFD" />
+<text x="554" y="202" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#8A97AA" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">REF</text>
+<text x="586" y="202" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">user_id</text>
+<text x="896" y="202" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<text x="586" y="222" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">email</text>
+<text x="896" y="222" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(120) UNIQUE</text>
+<rect x="545" y="228" width="360" height="20" rx="0" fill="#FAFBFD" />
+<text x="586" y="242" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">password_hash</text>
+<text x="896" y="242" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(72)</text>
+<text x="586" y="262" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">role</text>
+<text x="896" y="262" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">ENUM CUSTOMER|ADMIN</text>
+<rect x="545" y="268" width="360" height="20" rx="0" fill="#FAFBFD" />
+<text x="586" y="282" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">enabled</text>
+<text x="896" y="282" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BOOLEAN</text>
+<text x="586" y="302" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">created_at</text>
+<text x="896" y="302" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">TIMESTAMP</text>
+<rect x="545" y="308" width="360" height="20" rx="0" fill="#FAFBFD" />
+<text x="586" y="322" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">updated_at</text>
+<text x="896" y="322" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">TIMESTAMP</text>
+<rect x="1080" y="100" width="420" height="424" rx="10" fill="#F6F8FB" stroke="#C9D4E3" stroke-width="1.1" />
+<text x="1094" y="117" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.5" fill="#7A8699" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="1.1">SHOPSPHERE_PRODUCT  ·  PRODUCT SERVICE</text>
+<rect x="1094" y="140" width="392" height="108" rx="6" fill="#FFFFFF" stroke="#C9D4E3" stroke-width="1.1" />
+<path d="M 1094 150 q 0 -10 10 -10 L 1476 140 q 10 0 10 10 L 1486 168 L 1094 168 Z" fill="#1B7A5A" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1106" y="159" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="12.5" fill="#FFFFFF" text-anchor="start" font-weight="bold" font-style="normal">categories</text>
+<text x="1104" y="182" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#1B7A5A" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">PK</text>
+<text x="1136" y="182" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="bold" font-style="normal">id</text>
+<text x="1476" y="182" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<rect x="1095" y="188" width="390" height="20" rx="0" fill="#FAFBFD" />
+<text x="1136" y="202" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">name</text>
+<text x="1476" y="202" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(80) UNIQUE</text>
+<text x="1136" y="222" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">description</text>
+<text x="1476" y="222" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(255)</text>
+<rect x="1095" y="228" width="390" height="20" rx="0" fill="#FAFBFD" />
+<text x="1136" y="242" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">created_at</text>
+<text x="1476" y="242" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">TIMESTAMP</text>
+<rect x="1094" y="282" width="392" height="228" rx="6" fill="#FFFFFF" stroke="#C9D4E3" stroke-width="1.1" />
+<path d="M 1094 292 q 0 -10 10 -10 L 1476 282 q 10 0 10 10 L 1486 310 L 1094 310 Z" fill="#1B7A5A" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1106" y="301" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="12.5" fill="#FFFFFF" text-anchor="start" font-weight="bold" font-style="normal">products</text>
+<text x="1104" y="324" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#1B7A5A" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">PK</text>
+<text x="1136" y="324" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="bold" font-style="normal">id</text>
+<text x="1476" y="324" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<rect x="1095" y="330" width="390" height="20" rx="0" fill="#FAFBFD" />
+<text x="1104" y="344" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#4A5568" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">FK</text>
+<text x="1136" y="344" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">category_id</text>
+<text x="1476" y="344" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<text x="1136" y="364" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">name</text>
+<text x="1476" y="364" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(120)</text>
+<rect x="1095" y="370" width="390" height="20" rx="0" fill="#FAFBFD" />
+<text x="1136" y="384" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">description</text>
+<text x="1476" y="384" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">TEXT</text>
+<text x="1136" y="404" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">price</text>
+<text x="1476" y="404" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">DECIMAL(10,2)</text>
+<rect x="1095" y="410" width="390" height="20" rx="0" fill="#FAFBFD" />
+<text x="1136" y="424" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">stock_quantity</text>
+<text x="1476" y="424" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">INT</text>
+<text x="1136" y="444" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">image_url</text>
+<text x="1476" y="444" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(255)</text>
+<rect x="1095" y="450" width="390" height="20" rx="0" fill="#FAFBFD" />
+<text x="1136" y="464" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">active</text>
+<text x="1476" y="464" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BOOLEAN</text>
+<text x="1136" y="484" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">created_at</text>
+<text x="1476" y="484" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">TIMESTAMP</text>
+<rect x="1095" y="490" width="390" height="20" rx="0" fill="#FAFBFD" />
+<text x="1136" y="504" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">updated_at</text>
+<text x="1476" y="504" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">TIMESTAMP</text>
+<rect x="60" y="760" width="340" height="324" rx="10" fill="#F6F8FB" stroke="#C9D4E3" stroke-width="1.1" />
+<text x="74" y="777" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.5" fill="#7A8699" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="1.1">SHOPSPHERE_CART  ·  CART SERVICE</text>
+<rect x="74" y="800" width="312" height="108" rx="6" fill="#FFFFFF" stroke="#C9D4E3" stroke-width="1.1" />
+<path d="M 74 810 q 0 -10 10 -10 L 376 800 q 10 0 10 10 L 386 828 L 74 828 Z" fill="#B5651D" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="86" y="819" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="12.5" fill="#FFFFFF" text-anchor="start" font-weight="bold" font-style="normal">carts</text>
+<text x="84" y="842" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#B5651D" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">PK</text>
+<text x="116" y="842" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="bold" font-style="normal">id</text>
+<text x="376" y="842" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<rect x="75" y="848" width="310" height="20" rx="0" fill="#FAFBFD" />
+<text x="84" y="862" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#8A97AA" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">REF</text>
+<text x="116" y="862" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">user_id</text>
+<text x="376" y="862" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<text x="116" y="882" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">created_at</text>
+<text x="376" y="882" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">TIMESTAMP</text>
+<rect x="75" y="888" width="310" height="20" rx="0" fill="#FAFBFD" />
+<text x="116" y="902" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">updated_at</text>
+<text x="376" y="902" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">TIMESTAMP</text>
+<rect x="74" y="942" width="312" height="128" rx="6" fill="#FFFFFF" stroke="#C9D4E3" stroke-width="1.1" />
+<path d="M 74 952 q 0 -10 10 -10 L 376 942 q 10 0 10 10 L 386 970 L 74 970 Z" fill="#B5651D" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="86" y="961" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="12.5" fill="#FFFFFF" text-anchor="start" font-weight="bold" font-style="normal">cart_items</text>
+<text x="84" y="984" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#B5651D" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">PK</text>
+<text x="116" y="984" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="bold" font-style="normal">id</text>
+<text x="376" y="984" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<rect x="75" y="990" width="310" height="20" rx="0" fill="#FAFBFD" />
+<text x="84" y="1004" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#4A5568" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">FK</text>
+<text x="116" y="1004" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">cart_id</text>
+<text x="376" y="1004" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<text x="84" y="1024" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#8A97AA" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">REF</text>
+<text x="116" y="1024" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">product_id</text>
+<text x="376" y="1024" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<rect x="75" y="1030" width="310" height="20" rx="0" fill="#FAFBFD" />
+<text x="116" y="1044" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">quantity</text>
+<text x="376" y="1044" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">INT</text>
+<text x="116" y="1064" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">added_at</text>
+<text x="376" y="1064" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">TIMESTAMP</text>
+<rect x="440" y="760" width="320" height="162" rx="10" fill="#F6F8FB" stroke="#C9D4E3" stroke-width="1.1" />
+<text x="454" y="777" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.5" fill="#7A8699" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="1.1">SHOPSPHERE_WISHLIST  ·  WISHLIST SERVICE</text>
+<rect x="454" y="800" width="292" height="108" rx="6" fill="#FFFFFF" stroke="#C9D4E3" stroke-width="1.1" />
+<path d="M 454 810 q 0 -10 10 -10 L 736 800 q 10 0 10 10 L 746 828 L 454 828 Z" fill="#A63D6B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="466" y="819" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="12.5" fill="#FFFFFF" text-anchor="start" font-weight="bold" font-style="normal">wishlist_items</text>
+<text x="734" y="818" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9" fill="#FFFFFFCC" text-anchor="end" font-weight="bold" font-style="normal" letter-spacing="0.8">UQ (user_id, product_id)</text>
+<text x="464" y="842" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#A63D6B" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">PK</text>
+<text x="496" y="842" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="bold" font-style="normal">id</text>
+<text x="736" y="842" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<rect x="455" y="848" width="290" height="20" rx="0" fill="#FAFBFD" />
+<text x="464" y="862" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#8A97AA" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">REF</text>
+<text x="496" y="862" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">user_id</text>
+<text x="736" y="862" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<text x="464" y="882" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#8A97AA" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">REF</text>
+<text x="496" y="882" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">product_id</text>
+<text x="736" y="882" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<rect x="455" y="888" width="290" height="20" rx="0" fill="#FAFBFD" />
+<text x="496" y="902" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">added_at</text>
+<text x="736" y="902" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">TIMESTAMP</text>
+<rect x="800" y="760" width="390" height="424" rx="10" fill="#F6F8FB" stroke="#C9D4E3" stroke-width="1.1" />
+<text x="814" y="777" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.5" fill="#7A8699" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="1.1">SHOPSPHERE_ORDER  ·  ORDER SERVICE</text>
+<rect x="814" y="800" width="362" height="168" rx="6" fill="#FFFFFF" stroke="#C9D4E3" stroke-width="1.1" />
+<path d="M 814 810 q 0 -10 10 -10 L 1166 800 q 10 0 10 10 L 1176 828 L 814 828 Z" fill="#4A4E69" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="826" y="819" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="12.5" fill="#FFFFFF" text-anchor="start" font-weight="bold" font-style="normal">orders</text>
+<text x="824" y="842" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#4A4E69" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">PK</text>
+<text x="856" y="842" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="bold" font-style="normal">id</text>
+<text x="1166" y="842" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<rect x="815" y="848" width="360" height="20" rx="0" fill="#FAFBFD" />
+<text x="824" y="862" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#8A97AA" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">REF</text>
+<text x="856" y="862" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">user_id</text>
+<text x="1166" y="862" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<text x="824" y="882" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#8A97AA" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">REF</text>
+<text x="856" y="882" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">address_id</text>
+<text x="1166" y="882" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<rect x="815" y="888" width="360" height="20" rx="0" fill="#FAFBFD" />
+<text x="856" y="902" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">total_amount</text>
+<text x="1166" y="902" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">DECIMAL(10,2)</text>
+<text x="856" y="922" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">status</text>
+<text x="1166" y="922" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">ENUM PENDING…CANCELLED</text>
+<rect x="815" y="928" width="360" height="20" rx="0" fill="#FAFBFD" />
+<text x="856" y="942" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">placed_at</text>
+<text x="1166" y="942" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">TIMESTAMP</text>
+<text x="856" y="962" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">updated_at</text>
+<text x="1166" y="962" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">TIMESTAMP</text>
+<rect x="814" y="1002" width="362" height="168" rx="6" fill="#FFFFFF" stroke="#C9D4E3" stroke-width="1.1" />
+<path d="M 814 1012 q 0 -10 10 -10 L 1166 1002 q 10 0 10 10 L 1176 1030 L 814 1030 Z" fill="#4A4E69" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="826" y="1021" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="12.5" fill="#FFFFFF" text-anchor="start" font-weight="bold" font-style="normal">order_items</text>
+<text x="1164" y="1020" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9" fill="#FFFFFFCC" text-anchor="end" font-weight="bold" font-style="normal" letter-spacing="0.8">SNAPSHOT</text>
+<text x="824" y="1044" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#4A4E69" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">PK</text>
+<text x="856" y="1044" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="bold" font-style="normal">id</text>
+<text x="1166" y="1044" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<rect x="815" y="1050" width="360" height="20" rx="0" fill="#FAFBFD" />
+<text x="824" y="1064" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#4A5568" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">FK</text>
+<text x="856" y="1064" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">order_id</text>
+<text x="1166" y="1064" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<text x="824" y="1084" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#8A97AA" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">REF</text>
+<text x="856" y="1084" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">product_id</text>
+<text x="1166" y="1084" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<rect x="815" y="1090" width="360" height="20" rx="0" fill="#FAFBFD" />
+<text x="856" y="1104" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">product_name</text>
+<text x="1166" y="1104" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(120)</text>
+<text x="856" y="1124" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">unit_price</text>
+<text x="1166" y="1124" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">DECIMAL(10,2)</text>
+<rect x="815" y="1130" width="360" height="20" rx="0" fill="#FAFBFD" />
+<text x="856" y="1144" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">quantity</text>
+<text x="1166" y="1144" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">INT</text>
+<text x="856" y="1164" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">line_total</text>
+<text x="1166" y="1164" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">DECIMAL(10,2)</text>
+<rect x="1230" y="760" width="300" height="222" rx="10" fill="#F6F8FB" stroke="#C9D4E3" stroke-width="1.1" />
+<text x="1244" y="777" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.5" fill="#7A8699" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="1.1">SHOPSPHERE_PAYMENT  ·  PAYMENT SERVICE</text>
+<rect x="1244" y="800" width="272" height="168" rx="6" fill="#FFFFFF" stroke="#C9D4E3" stroke-width="1.1" />
+<path d="M 1244 810 q 0 -10 10 -10 L 1506 800 q 10 0 10 10 L 1516 828 L 1244 828 Z" fill="#0F6E8C" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1256" y="819" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="12.5" fill="#FFFFFF" text-anchor="start" font-weight="bold" font-style="normal">payments</text>
+<text x="1254" y="842" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#0F6E8C" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">PK</text>
+<text x="1286" y="842" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="bold" font-style="normal">id</text>
+<text x="1506" y="842" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<rect x="1245" y="848" width="270" height="20" rx="0" fill="#FAFBFD" />
+<text x="1254" y="862" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#8A97AA" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">REF</text>
+<text x="1286" y="862" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">order_id</text>
+<text x="1506" y="862" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<text x="1286" y="882" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">amount</text>
+<text x="1506" y="882" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">DECIMAL(10,2)</text>
+<rect x="1245" y="888" width="270" height="20" rx="0" fill="#FAFBFD" />
+<text x="1286" y="902" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">method</text>
+<text x="1506" y="902" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">ENUM CARD|UPI|…</text>
+<text x="1286" y="922" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">status</text>
+<text x="1506" y="922" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">ENUM SUCCESS|FAILURE</text>
+<rect x="1245" y="928" width="270" height="20" rx="0" fill="#FAFBFD" />
+<text x="1286" y="942" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">transaction_ref</text>
+<text x="1506" y="942" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(40)</text>
+<text x="1286" y="962" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">attempted_at</text>
+<text x="1506" y="962" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">TIMESTAMP</text>
+<rect x="1570" y="760" width="300" height="242" rx="10" fill="#F6F8FB" stroke="#C9D4E3" stroke-width="1.1" />
+<text x="1584" y="777" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.5" fill="#7A8699" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="1.1">SHOPSPHERE_REVIEW  ·  REVIEW SERVICE</text>
+<rect x="1584" y="800" width="272" height="188" rx="6" fill="#FFFFFF" stroke="#C9D4E3" stroke-width="1.1" />
+<path d="M 1584 810 q 0 -10 10 -10 L 1846 800 q 10 0 10 10 L 1856 828 L 1584 828 Z" fill="#7D5A3C" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1596" y="819" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="12.5" fill="#FFFFFF" text-anchor="start" font-weight="bold" font-style="normal">reviews</text>
+<text x="1844" y="818" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9" fill="#FFFFFFCC" text-anchor="end" font-weight="bold" font-style="normal" letter-spacing="0.8">UQ (user_id, product_id)</text>
+<text x="1594" y="842" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#7D5A3C" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">PK</text>
+<text x="1626" y="842" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="bold" font-style="normal">id</text>
+<text x="1846" y="842" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<rect x="1585" y="848" width="270" height="20" rx="0" fill="#FAFBFD" />
+<text x="1594" y="862" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#8A97AA" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">REF</text>
+<text x="1626" y="862" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">product_id</text>
+<text x="1846" y="862" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<text x="1594" y="882" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="7.8" fill="#8A97AA" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="0.5">REF</text>
+<text x="1626" y="882" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">user_id</text>
+<text x="1846" y="882" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">BIGINT</text>
+<rect x="1585" y="888" width="270" height="20" rx="0" fill="#FAFBFD" />
+<text x="1626" y="902" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">reviewer_name</text>
+<text x="1846" y="902" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(120)</text>
+<text x="1626" y="922" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">rating</text>
+<text x="1846" y="922" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">TINYINT 1–5</text>
+<rect x="1585" y="928" width="270" height="20" rx="0" fill="#FAFBFD" />
+<text x="1626" y="942" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">comment</text>
+<text x="1846" y="942" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">VARCHAR(1000)</text>
+<text x="1626" y="962" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">created_at</text>
+<text x="1846" y="962" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">TIMESTAMP</text>
+<rect x="1585" y="968" width="270" height="20" rx="0" fill="#FAFBFD" />
+<text x="1626" y="982" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10.6" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">updated_at</text>
+<text x="1846" y="982" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.4" fill="#7A8699" text-anchor="end" font-weight="normal" font-style="normal">TIMESTAMP</text>
+<path d="M 275.0 333 L 275.0 308" fill="none" stroke="#2F5D8C" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 269.0 333 L 275.0 342" fill="none" stroke="#2F5D8C" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 275.0 333 L 275.0 342" fill="none" stroke="#2F5D8C" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 281.0 333 L 275.0 342" fill="none" stroke="#2F5D8C" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 270.0 316 L 280.0 316" fill="none" stroke="#2F5D8C" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="253.0" y="337" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.5" fill="#2F5D8C" text-anchor="start" font-weight="bold" font-style="normal">N</text>
+<text x="287.0" y="323" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.5" fill="#2F5D8C" text-anchor="start" font-weight="bold" font-style="normal">1</text>
+<path d="M 1290.0 273 L 1290.0 248" fill="none" stroke="#1B7A5A" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 1284.0 273 L 1290.0 282" fill="none" stroke="#1B7A5A" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 1290.0 273 L 1290.0 282" fill="none" stroke="#1B7A5A" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 1296.0 273 L 1290.0 282" fill="none" stroke="#1B7A5A" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 1285.0 256 L 1295.0 256" fill="none" stroke="#1B7A5A" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1268.0" y="277" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.5" fill="#1B7A5A" text-anchor="start" font-weight="bold" font-style="normal">N</text>
+<text x="1302.0" y="263" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.5" fill="#1B7A5A" text-anchor="start" font-weight="bold" font-style="normal">1</text>
+<path d="M 230.0 933 L 230.0 908" fill="none" stroke="#B5651D" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 224.0 933 L 230.0 942" fill="none" stroke="#B5651D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 230.0 933 L 230.0 942" fill="none" stroke="#B5651D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 236.0 933 L 230.0 942" fill="none" stroke="#B5651D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 225.0 916 L 235.0 916" fill="none" stroke="#B5651D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="208.0" y="937" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.5" fill="#B5651D" text-anchor="start" font-weight="bold" font-style="normal">N</text>
+<text x="242.0" y="923" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.5" fill="#B5651D" text-anchor="start" font-weight="bold" font-style="normal">1</text>
+<path d="M 995.0 993 L 995.0 968" fill="none" stroke="#4A4E69" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 989.0 993 L 995.0 1002" fill="none" stroke="#4A4E69" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 995.0 993 L 995.0 1002" fill="none" stroke="#4A4E69" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 1001.0 993 L 995.0 1002" fill="none" stroke="#4A4E69" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 990.0 976 L 1000.0 976" fill="none" stroke="#4A4E69" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="973.0" y="997" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.5" fill="#4A4E69" text-anchor="start" font-weight="bold" font-style="normal">N</text>
+<text x="1007.0" y="983" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.5" fill="#4A4E69" text-anchor="start" font-weight="bold" font-style="normal">1</text>
+<path d="M 230.0 800 L 230.0 722 L 478 722 L 478 190 L 465 190" fill="none" stroke="#8A97AA" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4"/>
+<path d="M 457 190 l 8 -4 l 0 8 Z" fill="#8A97AA" stroke="#8A97AA" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="235.0" y="710" width="41.28" height="13" rx="0" fill="#FFFFFF" />
+<text x="238.0" y="718" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9" fill="#8A97AA" text-anchor="start" font-weight="normal" font-style="normal">user_id</text>
+<path d="M 600.0 800 L 600.0 704 L 488 704 L 488 220 L 465 220" fill="none" stroke="#8A97AA" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4"/>
+<path d="M 457 220 l 8 -4 l 0 8 Z" fill="#8A97AA" stroke="#8A97AA" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="605.0" y="692" width="41.28" height="13" rx="0" fill="#FFFFFF" />
+<text x="608.0" y="700" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9" fill="#8A97AA" text-anchor="start" font-weight="normal" font-style="normal">user_id</text>
+<path d="M 995.0 800 L 995.0 686 L 498 686 L 498 250 L 465 250" fill="none" stroke="#8A97AA" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4"/>
+<path d="M 457 250 l 8 -4 l 0 8 Z" fill="#8A97AA" stroke="#8A97AA" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1000.0" y="674" width="41.28" height="13" rx="0" fill="#FFFFFF" />
+<text x="1003.0" y="682" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9" fill="#8A97AA" text-anchor="start" font-weight="normal" font-style="normal">user_id</text>
+<path d="M 995.0 800 L 995.0 668 L 508 668 L 508 430 L 465 430" fill="none" stroke="#8A97AA" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4"/>
+<path d="M 457 430 l 8 -4 l 0 8 Z" fill="#8A97AA" stroke="#8A97AA" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1000.0" y="656" width="56.400000000000006" height="13" rx="0" fill="#FFFFFF" />
+<text x="1003.0" y="664" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9" fill="#8A97AA" text-anchor="start" font-weight="normal" font-style="normal">address_id</text>
+<path d="M 1720.0 800 L 1720.0 650 L 518 650 L 518 280 L 465 280" fill="none" stroke="#8A97AA" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4"/>
+<path d="M 457 280 l 8 -4 l 0 8 Z" fill="#8A97AA" stroke="#8A97AA" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1725.0" y="638" width="41.28" height="13" rx="0" fill="#FFFFFF" />
+<text x="1728.0" y="646" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9" fill="#8A97AA" text-anchor="start" font-weight="normal" font-style="normal">user_id</text>
+<path d="M 230.0 942 L 230.0 632 L 1512 632 L 1512 320 L 1495 320" fill="none" stroke="#8A97AA" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4"/>
+<path d="M 1487 320 l 8 -4 l 0 8 Z" fill="#8A97AA" stroke="#8A97AA" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="235.0" y="620" width="56.400000000000006" height="13" rx="0" fill="#FFFFFF" />
+<text x="238.0" y="628" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9" fill="#8A97AA" text-anchor="start" font-weight="normal" font-style="normal">product_id</text>
+<path d="M 600.0 800 L 600.0 614 L 1524 614 L 1524 355 L 1495 355" fill="none" stroke="#8A97AA" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4"/>
+<path d="M 1487 355 l 8 -4 l 0 8 Z" fill="#8A97AA" stroke="#8A97AA" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="605.0" y="602" width="56.400000000000006" height="13" rx="0" fill="#FFFFFF" />
+<text x="608.0" y="610" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9" fill="#8A97AA" text-anchor="start" font-weight="normal" font-style="normal">product_id</text>
+<path d="M 995.0 1002 L 995.0 596 L 1536 596 L 1536 390 L 1495 390" fill="none" stroke="#8A97AA" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4"/>
+<path d="M 1487 390 l 8 -4 l 0 8 Z" fill="#8A97AA" stroke="#8A97AA" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1000.0" y="584" width="56.400000000000006" height="13" rx="0" fill="#FFFFFF" />
+<text x="1003.0" y="592" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9" fill="#8A97AA" text-anchor="start" font-weight="normal" font-style="normal">product_id</text>
+<path d="M 1720.0 800 L 1720.0 578 L 1548 578 L 1548 425 L 1495 425" fill="none" stroke="#8A97AA" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4"/>
+<path d="M 1487 425 l 8 -4 l 0 8 Z" fill="#8A97AA" stroke="#8A97AA" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1725.0" y="566" width="56.400000000000006" height="13" rx="0" fill="#FFFFFF" />
+<text x="1728.0" y="574" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9" fill="#8A97AA" text-anchor="start" font-weight="normal" font-style="normal">product_id</text>
+<path d="M 544 198.0 L 524 198.0 L 524 165 L 465 165" fill="none" stroke="#8A97AA" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4"/>
+<path d="M 457 165 l 8 -4 l 0 8 Z" fill="#8A97AA" stroke="#8A97AA" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="477" y="153" width="41.28" height="13" rx="0" fill="#FFFFFF" />
+<text x="480" y="161" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9" fill="#8A97AA" text-anchor="start" font-weight="normal" font-style="normal">user_id</text>
+<path d="M 1244 858.0 L 1210 858.0 L 1210 838.0 L 1185 838.0" fill="none" stroke="#8A97AA" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4"/>
+<path d="M 1177 838.0 l 8 -4 l 0 8 Z" fill="#8A97AA" stroke="#8A97AA" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1191" y="844.0" width="46.32000000000001" height="13" rx="0" fill="#FFFFFF" />
+<text x="1194" y="852.0" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9" fill="#8A97AA" text-anchor="start" font-weight="normal" font-style="normal">order_id</text>
+<rect x="530" y="372" width="390" height="78" rx="8" fill="#FFFFFF" stroke="#6A4C93" stroke-width="1.1" />
+<path d="M 530 372 L 530 450" fill="none" stroke="#6A4C93" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="546" y="394" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="11" fill="#6A4C93" text-anchor="start" font-weight="bold" font-style="normal">Role is an enum column, not a table.</text>
+<text x="546" y="412" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10" fill="#7A8699" text-anchor="start" font-weight="normal" font-style="normal">FR-AUTH-05 fixes exactly two roles and no role-management</text>
+<text x="546" y="428" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10" fill="#7A8699" text-anchor="start" font-weight="normal" font-style="normal">screen is in scope, so a joined roles table would add a seed</text>
+<text x="546" y="444" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10" fill="#7A8699" text-anchor="start" font-weight="normal" font-style="normal">dependency for no gain. SRS §7.1, revision 1.2.</text>
+<rect x="1620" y="100" width="250" height="196" rx="10" fill="#F6F8FB" stroke="#C9D4E3" stroke-width="1.1" />
+<text x="1636" y="124" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9.5" fill="#7A8699" text-anchor="start" font-weight="bold" font-style="normal" letter-spacing="1.1">LEGEND</text>
+<path d="M 1636 146 L 1676 146" fill="none" stroke="#1F2733" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 1645 140 L 1636 146" fill="none" stroke="#1F2733" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 1645 146 L 1636 146" fill="none" stroke="#1F2733" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 1645 152 L 1636 146" fill="none" stroke="#1F2733" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1686" y="150" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">Foreign key, within schema</text>
+<path d="M 1636 174 L 1676 174" fill="none" stroke="#8A97AA" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4"/>
+<path d="M 1636 174 l 8 -4 l 0 8 Z" fill="#8A97AA" stroke="#8A97AA" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1686" y="178" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">Logical reference, no FK</text>
+<text x="1636" y="204" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="8.2" fill="#1F2733" text-anchor="start" font-weight="bold" font-style="normal">PK</text>
+<text x="1686" y="204" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">Primary key</text>
+<text x="1636" y="226" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="8.2" fill="#4A5568" text-anchor="start" font-weight="bold" font-style="normal">FK</text>
+<text x="1686" y="226" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">Foreign key constraint</text>
+<text x="1636" y="248" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="8.2" fill="#8A97AA" text-anchor="start" font-weight="bold" font-style="normal">REF</text>
+<text x="1686" y="248" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10" fill="#1F2733" text-anchor="start" font-weight="normal" font-style="normal">Cross-schema id column</text>
+<text x="1636" y="282" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9" fill="#7A8699" text-anchor="start" font-weight="normal" font-style="normal">Resolved at runtime through the owning</text>
+<text x="1636" y="294" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="9" fill="#7A8699" text-anchor="start" font-weight="normal" font-style="normal">service's API (DR-03).</text>
+<text x="60" y="1250" font-family="DejaVu Sans, Verdana, Helvetica, Arial, sans-serif" font-size="10" fill="#7A8699" text-anchor="start" font-weight="normal" font-style="normal">ShopSphere · B09_Sept_JFS + React_PT_Shankar · SRS v1.2 · 08 September 2026</text>
+</svg>
