@@ -52,7 +52,17 @@ export const CartProvider: React.FC<{ children: React.ReactNode }> = ({ children
       setCart(updatedCart);
       toast.success('Added to cart');
     } catch (err: any) {
-      toast.error(err?.message || 'Failed to add item to cart');
+      const msg = (err?.message || '').toLowerCase();
+      if (
+        msg.includes('out of stock') ||
+        msg.includes('only 0 units') ||
+        err?.status === 409 ||
+        (err?.status === 400 && msg.includes('stock'))
+      ) {
+        toast.error('This product is currently out of stock.');
+      } else {
+        toast.error(err?.message || 'Failed to add item to cart');
+      }
       throw err;
     }
   };

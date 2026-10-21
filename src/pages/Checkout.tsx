@@ -502,7 +502,7 @@ export const Checkout: React.FC = () => {
 
           <div className="space-y-2.5 pt-3 border-t border-line text-sm">
             <div className="flex justify-between text-on-surface-variant">
-              <span>Hardware Total</span>
+              <span>Items Total</span>
               <span>{formatCurrency(cart?.subtotal || 0)}</span>
             </div>
             <div className="flex justify-between text-on-surface-variant">

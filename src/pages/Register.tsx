@@ -105,7 +105,7 @@ export const Register: React.FC = () => {
             Create Customer Account
           </h1>
           <p className="text-sm text-on-surface-variant mt-1">
-            Access curated hardware drops & express dispatch
+            Access curated fashion drops & express dispatch
           </p>
         </div>
 

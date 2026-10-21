@@ -56,8 +56,8 @@ export const Cart: React.FC = () => {
         <EmptyState
           icon={ShoppingBag}
           title="Your Shopping Cart is Empty"
-          description="Looks like you haven't added any high-performance hardware to your consignment cart yet."
-          actionText="Explore Catalogue"
+          description="Looks like you haven't added any items to your shopping cart yet."
+          actionText="Explore Collection"
           actionHref="/products"
         />
       </div>
@@ -73,7 +73,7 @@ export const Cart: React.FC = () => {
             Shopping Cart
           </h1>
           <p className="text-sm text-on-surface-variant mt-1">
-            Review your hardware selection before secure checkout
+            Review your items before secure checkout
           </p>
         </div>
 
@@ -184,7 +184,7 @@ export const Cart: React.FC = () => {
               className="inline-flex items-center gap-2 text-sm font-semibold text-primary hover:underline"
             >
               <ArrowLeft className="w-4 h-4" />
-              Continue Shopping Hardware
+              Continue Shopping
             </Link>
           </div>
         </div>
@@ -262,7 +262,7 @@ export const Cart: React.FC = () => {
       <ConfirmModal
         isOpen={Boolean(itemToRemove)}
         title="Remove Item"
-        message="Are you sure you want to remove this hardware item from your cart?"
+        message="Are you sure you want to remove this item from your cart?"
         confirmText="Remove"
         onConfirm={handleRemoveSingle}
         onClose={() => setItemToRemove(null)}

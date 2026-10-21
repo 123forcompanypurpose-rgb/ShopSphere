@@ -125,18 +125,24 @@ export const ProductDetail: React.FC = () => {
 
   const wishlisted = product ? isWishlisted(product.id) : false;
   const isOutOfStock = product ? product.inStock === false || product.stockQuantity === 0 : false;
-  const isLowStock = product ? product.stockQuantity > 0 && product.stockQuantity <= 5 : false;
+  const isLowStock = product ? !isOutOfStock && product.stockQuantity != null && product.stockQuantity > 0 && product.stockQuantity <= 10 : false;
 
   const handleAddToCart = async () => {
     if (!isAuthenticated) {
       navigate('/login', { state: { from: location.pathname + location.search } });
       return;
     }
-    if (!product || isOutOfStock) return;
+    if (!product) return;
+    if (isOutOfStock) {
+      toast.error(`"${product.name}" is currently out of stock`);
+      return;
+    }
 
     try {
       setAddingToCart(true);
       await addItem(product.id, quantity);
+    } catch {
+      // CartContext handles friendly error toasts
     } finally {
       setAddingToCart(false);
     }
@@ -302,12 +308,12 @@ export const ProductDetail: React.FC = () => {
                   Featured Style
                 </span>
                 {isOutOfStock ? (
-                  <span className="px-2.5 py-1 bg-error-container text-on-error-container font-label-sm text-label-sm rounded-full font-semibold text-xs">
+                  <span className="px-2.5 py-1 bg-rose-600 text-white font-label-sm text-label-sm rounded-full font-semibold text-xs shadow-sm">
                     Out of Stock
                   </span>
                 ) : isLowStock ? (
-                  <span className="px-2.5 py-1 bg-warning/20 text-warning font-label-sm text-label-sm rounded-full font-semibold text-xs">
-                    Only {product.stockQuantity} left
+                  <span className="px-2.5 py-1 bg-amber-500 text-white font-label-sm text-label-sm rounded-full font-semibold text-xs flex items-center gap-1 shadow-sm animate-pulse">
+                    ⚡ Hurry up! Only {product.stockQuantity} left
                   </span>
                 ) : (
                   <span className="px-2.5 py-1 bg-secondary-container/20 text-on-secondary-container font-label-sm text-label-sm rounded-full font-semibold text-xs">
@@ -455,12 +461,40 @@ export const ProductDetail: React.FC = () => {
               {/* Purchasing Controls (Customers and Guests only) */}
               {!isAdmin && (
                 <div className="pt-4 border-t border-line space-y-4">
+                  {isLowStock && (
+                    <div className="p-3.5 bg-amber-500/10 border border-amber-500/30 rounded-xl flex items-center gap-3 text-amber-800 dark:text-amber-300 text-sm font-medium">
+                      <span className="text-xl">⚡</span>
+                      <div>
+                        <strong className="font-semibold text-amber-900 dark:text-amber-200">
+                          Hurry up! Only {product.stockQuantity} left in stock
+                        </strong>
+                        <p className="text-xs text-amber-700/90 dark:text-amber-300/80 mt-0.5">
+                          High demand item. Complete your order soon before it sells out!
+                        </p>
+                      </div>
+                    </div>
+                  )}
+
+                  {isOutOfStock && (
+                    <div className="p-3.5 bg-rose-500/10 border border-rose-500/30 rounded-xl flex items-center gap-3 text-rose-800 dark:text-rose-300 text-sm font-medium">
+                      <span className="text-xl">⚠️</span>
+                      <div>
+                        <strong className="font-semibold text-rose-900 dark:text-rose-200">
+                          This product is currently out of stock
+                        </strong>
+                        <p className="text-xs text-rose-700/90 dark:text-rose-300/80 mt-0.5">
+                          We are working to restock soon. Please check back later or explore other styles!
+                        </p>
+                      </div>
+                    </div>
+                  )}
+
                   <div className="flex items-center justify-between">
                     <span className="text-sm font-semibold text-on-surface">Select Quantity</span>
                     <QuantityStepper
                       value={quantity}
                       min={1}
-                      max={product.stockQuantity || 1}
+                      max={Math.max(1, Math.min(product.stockQuantity || 1, 99))}
                       disabled={isOutOfStock}
                       onChange={setQuantity}
                     />
@@ -472,13 +506,13 @@ export const ProductDetail: React.FC = () => {
                     onClick={handleAddToCart}
                     className={`w-full h-12 rounded-xl flex items-center justify-center gap-2 font-caption-medium text-caption-medium text-base font-semibold shadow-md transition-all ${
                       isOutOfStock
-                        ? 'bg-surface-container text-muted cursor-not-allowed'
+                        ? 'bg-surface-container text-muted cursor-not-allowed border border-line'
                         : 'bg-primary text-on-primary hover:opacity-95 active:scale-[0.98]'
                     }`}
                   >
                     <ShoppingBag className="w-5 h-5" />
                     {isOutOfStock
-                      ? 'Currently Out of Stock'
+                      ? 'Out of Stock'
                       : addingToCart
                       ? 'Adding to Cart...'
                       : `Add ${quantity} to Cart • ${formatCurrency(product.price * quantity)}`}
@@ -637,7 +671,7 @@ export const ProductDetail: React.FC = () => {
                 ) : (
                   <div className="p-4 rounded-xl bg-surface-container-low border border-line text-center">
                     <p className="text-xs text-on-surface-variant mb-3">
-                      Log in to share your experience with this verified hardware.
+                      Log in to share your experience with this verified product.
                     </p>
                     <Link
                       to={`/login?from=${encodeURIComponent(location.pathname)}`}
@@ -736,7 +770,7 @@ export const ProductDetail: React.FC = () => {
       <ConfirmModal
         isOpen={Boolean(deleteConfirmId)}
         title="Delete Review"
-        message="Are you sure you want to remove your review for this hardware? This cannot be undone."
+        message="Are you sure you want to remove your review for this product? This cannot be undone."
         confirmText="Delete Review"
         loading={deletingReview}
         onConfirm={handleDeleteReview}

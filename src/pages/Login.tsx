@@ -126,7 +126,7 @@ export const Login: React.FC = () => {
           </button>
         </form>
 
-        {/* Demo Credentials Helper */}
+        {/* Demo Credentials Helper
         <div className="mt-6 p-3.5 rounded-xl bg-surface-container-low border border-line text-xs">
           <p className="font-semibold text-on-surface mb-2 flex items-center gap-1.5">
             <Shield className="w-3.5 h-3.5 text-primary" />
@@ -157,6 +157,7 @@ export const Login: React.FC = () => {
             </button>
           </div>
         </div>
+         */}
 
         <div className="mt-6 pt-6 border-t border-line text-center text-xs text-on-surface-variant">
           Don't have an account yet?{' '}

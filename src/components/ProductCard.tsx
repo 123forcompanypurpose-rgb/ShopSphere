@@ -6,6 +6,7 @@ import { useAuth } from '../context/AuthContext';
 import { useCart } from '../context/CartContext';
 import { useWishlist } from '../context/WishlistContext';
 import { Heart, ShoppingBag, Eye } from 'lucide-react';
+import { toast } from 'sonner';
 
 interface ProductCardProps {
   product: Product;
@@ -25,6 +26,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
 
   const wishlisted = isWishlisted(product.id);
   const isOutOfStock = product.inStock === false || product.stockQuantity === 0;
+  const isLowStock = !isOutOfStock && product.stockQuantity > 0 && product.stockQuantity <= 10;
 
   const handleWishlistClick = async (e: React.MouseEvent) => {
     e.preventDefault();
@@ -39,15 +41,20 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
   const handleAddToCartClick = async (e: React.MouseEvent) => {
     e.preventDefault();
     e.stopPropagation();
+    if (isOutOfStock) {
+      toast.error(`"${product.name}" is currently out of stock`);
+      return;
+    }
     if (!isAuthenticated) {
       navigate('/login', { state: { from: location.pathname + location.search } });
       return;
     }
-    if (isOutOfStock) return;
 
     try {
       setAdding(true);
       await addItem(product.id, 1);
+    } catch {
+      // CartContext shows toast
     } finally {
       setAdding(false);
     }
@@ -77,12 +84,12 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
 
         {/* Stock status pill */}
         {isOutOfStock ? (
-          <span className="absolute top-3 left-3 z-10 px-2 py-0.5 rounded-full bg-error-container text-on-error-container font-label-sm text-label-sm font-semibold">
+          <span className="absolute top-3 left-3 z-10 px-2.5 py-1 rounded-full bg-rose-600/95 text-white font-label-sm text-xs font-semibold shadow-sm backdrop-blur-sm">
             Out of Stock
           </span>
-        ) : product.stockQuantity > 0 && product.stockQuantity <= 5 ? (
-          <span className="absolute top-3 left-3 z-10 px-2 py-0.5 rounded-full bg-warning/20 text-warning font-label-sm text-label-sm font-semibold">
-            Only {product.stockQuantity} left
+        ) : isLowStock ? (
+          <span className="absolute top-3 left-3 z-10 px-2.5 py-1 rounded-full bg-amber-500/95 text-white font-label-sm text-xs font-semibold shadow-sm backdrop-blur-sm flex items-center gap-1 animate-pulse">
+            ⚡ Hurry up! Only {product.stockQuantity} left
           </span>
         ) : null}
 
@@ -132,15 +139,15 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
               type="button"
               disabled={isOutOfStock || adding}
               onClick={handleAddToCartClick}
-              aria-label="Add to cart"
+              aria-label={isOutOfStock ? 'Out of Stock' : 'Add to cart'}
               className={`h-9 px-3 rounded-lg flex items-center gap-1.5 font-caption-medium text-caption-medium transition-all ${
                 isOutOfStock
-                  ? 'bg-surface-container text-muted cursor-not-allowed'
+                  ? 'bg-surface-container text-muted cursor-not-allowed border border-line'
                   : 'bg-primary text-on-primary hover:opacity-90 shadow-sm active:scale-95'
               }`}
             >
               <ShoppingBag className="w-4 h-4" />
-              <span className="hidden sm:inline">{isOutOfStock ? 'Sold Out' : 'Add'}</span>
+              <span className="hidden sm:inline">{isOutOfStock ? 'Out of Stock' : 'Add'}</span>
             </button>
           )}
 
